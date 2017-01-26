@@ -17,9 +17,18 @@
 			<a-asset-item id="altmineclub-collision" src="model/untitled.obj"></a-asset-item>
 		</a-assets>
 		
+		<!--Building-->
 		<a-obj-model src="#altmineclub-obj" mtl="#altmineclub-mtl" rotation="0 180 0" position="18 0 -20" transparent="true" altspace-cursor-collider="enabled: false"></a-obj-model>
-		<a-obj-model src="#altmineclub-collision" material="visible: false;" rotation="0 180 0" position="18 0 -20" n-mesh-collider="type: environment; convex: false" altspace-cursor-collider="enabled: false"></a-obj-model>
-		<a-plane position="0 0 0" material="src: #grass; repeat: 200 200; color: #515151" height="200" width="200" rotation="-90 0 0" n-mesh-collider="type: environment; convex: false"></a-plane>
+		<!--Collision Model-->
+		<a-obj-model src="#altmineclub-collision" material="visible: false" rotation="0 180 0" position="18 0 -20" n-mesh-collider="type: environment; convex: false" altspace-cursor-collider="enabled: false"></a-obj-model>
+		<!--Grass-->
+		<a-plane position="0 0 0" material="src: #grass; repeat: 400 400; color: #515151" height="400" width="400" rotation="-90 0 0" altspace-cursor-collider="enabled: false"></a-plane>
+		<!--Invisible Boandaries-->
+		<a-plane position="18 50 30" material="visible: false" height="100" width="100" rotation="0 180 0" n-mesh-collider="type: environment; convex: false" altspace-cursor-collider="enabled: false"></a-plane>
+		<a-plane position="18 50 -70" material="visible: false" height="100" width="100" rotation="0 0 0" n-mesh-collider="type: environment; convex: false" altspace-cursor-collider="enabled: false"></a-plane>
+		<a-plane position="68 50 -20" material="visible: false" height="100" width="100" rotation="0 270 0" n-mesh-collider="type: environment; convex: false" altspace-cursor-collider="enabled: false"></a-plane>
+		<a-plane position="-32 50 -20" material="visible: false" height="100" width="100" rotation="0 90 0" n-mesh-collider="type: environment; convex: false" altspace-cursor-collider="enabled: false"></a-plane>
+		<!--Sky-->
 		<a-sky src="#skybox" rotation="0 90 0" radius="1000" altspace-cursor-collider="enabled: false"></a-sky>
 	</a-scene>
   </body>
