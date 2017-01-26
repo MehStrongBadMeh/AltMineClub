@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>3D Model</title>
+    <meta name="description" content="3D Model — A-Frame">
+    <script src="https://aframe.io/releases/0.3.0/aframe.min.js"></script>
+    <script src="https://cdn.rawgit.com/AltspaceVR/aframe-altspace-component/v1.3.1/dist/aframe-altspace-component.min.js"></script>
+  </head>
+  <body>
+	<a-scene altspace='vertical-align: 0;'>
+		<a-assets>
+			<img id="grass" src="extras/grass.png"/>
+			<img id="skybox" src="extras/minecraft_night.png"/>
+			<a-asset-item id="altmineclub-obj" src="model/altmineclub.obj"></a-asset-item>
+			<a-asset-item id="altmineclub-mtl" src="model/altmineclub.mtl"></a-asset-item>
+			<a-asset-item id="altmineclub-collision" src="model/untitled.obj"></a-asset-item>
+		</a-assets>
+		
+		<a-obj-model src="#altmineclub-obj" mtl="#altmineclub-mtl" rotation="0 180 0" position="18 0 -20" transparent="true" altspace-cursor-collider="enabled: false"></a-obj-model>
+		<a-obj-model src="#altmineclub-collision" material="visible: false;" rotation="0 180 0" position="18 0 -20" n-mesh-collider="type: environment; convex: false" altspace-cursor-collider="enabled: false"></a-obj-model>
+		<a-plane position="0 0 0" material="src: #grass; repeat: 200 200; color: #515151" height="200" width="200" rotation="-90 0 0" n-mesh-collider="type: environment; convex: false"></a-plane>
+		<a-sky src="#skybox" rotation="0 90 0" radius="1000" altspace-cursor-collider="enabled: false"></a-sky>
+	</a-scene>
+  </body>
+</html>
