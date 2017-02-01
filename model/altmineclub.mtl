@@ -4,7 +4,7 @@ Wavefront OBJ material file
 newmtl Stone__4
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -17,7 +17,7 @@ map_Kd altmineclub-RGB.png
 newmtl Stone__6
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -30,7 +30,7 @@ map_Kd altmineclub-RGB.png
 newmtl Grass_Block
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -43,7 +43,7 @@ map_Kd altmineclub-RGB.png
 newmtl Dirt
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -56,7 +56,7 @@ map_Kd altmineclub-RGB.png
 newmtl Cobblestone
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -69,7 +69,7 @@ map_Kd altmineclub-RGB.png
 newmtl Wood_Planks
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.65 0.65 0.65
+Kd 0.7 0.7 0.7
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -82,7 +82,7 @@ map_Kd altmineclub-RGB.png
 newmtl Stationary_Water
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0.03 0.03 0.03
 # map_Ka altmineclub-RGBA.png
 # for G3D, to make textures look blocky:
@@ -110,7 +110,7 @@ map_Kd altmineclub-RGB.png
 newmtl Wood__1
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -123,7 +123,7 @@ map_Kd altmineclub-RGB.png
 newmtl Leaves
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGBA.png
 # for G3D, to make textures look blocky:
@@ -137,7 +137,7 @@ Tr 0.00001
 newmtl Glass
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0.03 0.03 0.03
 # map_Ka altmineclub-RGBA.png
 # for G3D, to make textures look blocky:
@@ -178,7 +178,7 @@ Tr 0.00001
 newmtl Piston
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -191,7 +191,7 @@ map_Kd altmineclub-RGB.png
 newmtl Wool__4
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -204,7 +204,7 @@ map_Kd altmineclub-RGB.png
 newmtl Wool__11
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -217,7 +217,7 @@ map_Kd altmineclub-RGB.png
 newmtl Wool__13
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -230,7 +230,7 @@ map_Kd altmineclub-RGB.png
 newmtl Wool__14
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -256,7 +256,7 @@ map_Kd altmineclub-RGB.png
 newmtl Poppy__1
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGBA.png
 # for G3D, to make textures look blocky:
@@ -270,7 +270,7 @@ Tr 0.00001
 newmtl Poppy__2
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGBA.png
 # for G3D, to make textures look blocky:
@@ -284,7 +284,7 @@ Tr 0.00001
 newmtl Poppy__8
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGBA.png
 # for G3D, to make textures look blocky:
@@ -298,7 +298,7 @@ Tr 0.00001
 newmtl Block_of_Gold
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -311,7 +311,7 @@ map_Kd altmineclub-RGB.png
 newmtl Block_of_Iron
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -324,7 +324,7 @@ map_Kd altmineclub-RGB.png
 newmtl Stone_Slab
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -389,7 +389,7 @@ map_Kd altmineclub-RGB.png
 newmtl Bookshelf
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -402,7 +402,7 @@ map_Kd altmineclub-RGB.png
 newmtl Oak_Wood_Stairs
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.65 0.65 0.65
+Kd 0.62 0.62 0.62
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -415,7 +415,7 @@ map_Kd altmineclub-RGB.png
 newmtl Block_of_Diamond
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -428,7 +428,7 @@ map_Kd altmineclub-RGB.png
 newmtl Standing_Sign
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -441,7 +441,7 @@ map_Kd altmineclub-RGB.png
 newmtl Wall_Sign
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -454,7 +454,7 @@ map_Kd altmineclub-RGB.png
 newmtl Lever
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -467,7 +467,7 @@ map_Kd altmineclub-RGB.png
 newmtl Iron_Door
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGBA.png
 # for G3D, to make textures look blocky:
@@ -481,7 +481,7 @@ Tr 0.00001
 newmtl Wooden_Pressure_Plate
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -494,7 +494,7 @@ map_Kd altmineclub-RGB.png
 newmtl Snow_(layer)
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -507,7 +507,7 @@ map_Kd altmineclub-RGB.png
 newmtl Fence
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.65 0.65 0.65
+Kd 0.67 0.67 0.67
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -575,7 +575,7 @@ map_Kd altmineclub-RGB.png
 newmtl Iron_Bars
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGBA.png
 # for G3D, to make textures look blocky:
@@ -589,7 +589,7 @@ Tr 0.00001
 newmtl Glass_Pane
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0.03 0.03 0.03
 # map_Ka altmineclub-RGBA.png
 # for G3D, to make textures look blocky:
@@ -603,7 +603,7 @@ Tr 0.00001
 newmtl Fence_Gate
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -655,7 +655,7 @@ map_Kd altmineclub-RGB.png
 newmtl Brewing_Stand
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGBA.png
 # for G3D, to make textures look blocky:
@@ -669,7 +669,7 @@ Tr 0.00001
 newmtl Cauldron__3
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGBA.png
 # for G3D, to make textures look blocky:
@@ -709,7 +709,7 @@ map_Kd altmineclub-RGB.png
 newmtl Tripwire_Hook
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -722,7 +722,7 @@ map_Kd altmineclub-RGB.png
 newmtl Flower_Pot
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -735,7 +735,7 @@ map_Kd altmineclub-RGB.png
 newmtl Weighted_Pressure_Plate_(Light)
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -748,7 +748,7 @@ map_Kd altmineclub-RGB.png
 newmtl Block_of_Quartz__2
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:
@@ -774,7 +774,7 @@ map_Kd altmineclub-RGB.png
 newmtl Carpet
 # Ns 0
 # Ka 0.2 0.2 0.2
-Kd 0.75 0.75 0.75
+Kd 0.65 0.65 0.65
 Ks 0 0 0
 # map_Ka altmineclub-RGB.png
 # for G3D, to make textures look blocky:

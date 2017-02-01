@@ -12,6 +12,7 @@
 		<a-assets>
 			<img id="grass" src="extras/grass.png"/>
 			<img id="skybox" src="extras/minecraft_night.png"/>
+			<img id="moonbox" src="extras/moonsky.png"/>
 			<a-asset-item id="altmineclub-obj" src="model/altmineclub.obj"></a-asset-item>
 			<a-asset-item id="altmineclub-mtl" src="model/altmineclub.mtl"></a-asset-item>
 			<a-asset-item id="altmineclub-collision" src="model/untitled.obj"></a-asset-item>
@@ -29,7 +30,10 @@
 		<a-plane position="68 50 -20" material="visible: false" height="100" width="100" rotation="0 270 0" n-mesh-collider="type: environment; convex: false" altspace-cursor-collider="enabled: false"></a-plane>
 		<a-plane position="-32 50 -20" material="visible: false" height="100" width="100" rotation="0 90 0" n-mesh-collider="type: environment; convex: false" altspace-cursor-collider="enabled: false"></a-plane>
 		<!--Sky-->
-		<a-sky src="#skybox" rotation="0 90 0" radius="1000" altspace-cursor-collider="enabled: false"></a-sky>
+		<a-sky src="#skybox" rotation="0 0 0" radius="1000" altspace-cursor-collider="enabled: false"></a-sky>
+		<a-sky src="#moonbox" rotation="0 0 0" transparent="true" radius="980" altspace-cursor-collider="enabled: false">
+			<a-animation to="0 0 -360" easing="linear" dur="1200000" repeat="indefinite"/>
+		</a-sky>
 	</a-scene>
   </body>
 </html>
